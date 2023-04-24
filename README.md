@@ -22,15 +22,20 @@ You need to open the main.py file and execute it. A tkinter window will open wit
 ![image](https://user-images.githubusercontent.com/78559233/230966937-44571011-e200-407d-86d2-0665797d1cbd.png)
 
 
-##### Format of the Query:
-**Normal Query**
+##### Format of the Query:  
+
+**Normal Query**  
+
 The query is of the form: t1 operator t2 operator .... tn 
 where t1 - tn are the terms
-operator are binary operators AND/OR/NOT
+operator are binary operators AND/OR/NOT  
 
-**Positional Query**
+
+**Positional Query**  
+
 The query is of the form: t1 t2 /k
 where k is the number of words t1 and t2 are apart.
 
 ##### Note:
-GUI is build using tkinter library of Python.
+GUI is build using tkinter library of Python.  
+
