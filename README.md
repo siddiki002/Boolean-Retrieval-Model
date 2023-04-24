@@ -26,8 +26,10 @@ You need to open the main.py file and execute it. A tkinter window will open wit
 
 **Normal Query**  
 
-The query is of the form: t1 operator t2 operator .... tn 
-where t1 - tn are the terms
+The query is of the form: t1 operator t2 operator .... tn  
+
+where t1 - tn are the terms  
+
 operator are binary operators AND/OR/NOT  
 
 
